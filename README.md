@@ -99,9 +99,11 @@ Exploring new technologies and contributing to open-source projects.
 </p>
 
 <div align=left>
-<img width=390 src="https://streak-stats.demolab.com/?user=div-thombare&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br/><br/>
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushInnovateshide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img width=390 src="https://streak-stats.demolab.com/?user=SushInnovates&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br/><br/>
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushInnovates&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+
 
 
 <!-------------------------------------------------------------------special Thanks to @--------------------------------------------------------------------------->
