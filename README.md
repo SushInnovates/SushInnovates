@@ -32,8 +32,8 @@ are bithch karki code copy-->
   
 <h2 align="left">🔭 Currently Working On </h2>
 <p align="left">
-Enhancing my skills in AI and Machine Learning through various projects and coursework.
-Exploring new technologies and contributing to open-source projects.
+🚀 Focused on the future of technology, I explore the evolving landscape of computer science with a keen interest in AI, intelligent systems, and innovation-driven development. My work is rooted in strong theoretical understanding, with a vision to build solutions that are not only functional but future-ready. I believe in continuous learning, ethical innovation, and creating technology that advances society.
+
 </p>
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h2 align="left">🛠️ Technologies & Tools</h2>
@@ -106,6 +106,6 @@ Exploring new technologies and contributing to open-source projects.
 
 
 
-<!-------------------------------------------------------------------special Thanks to @--------------------------------------------------------------------------->
+<!-------------------------------------------------------------------special Thanks to Divya--------------------------------------------------------------------------->
 
 
