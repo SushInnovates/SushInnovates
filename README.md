@@ -27,7 +27,7 @@ are bithch karki code copy-->
 
 <h2 align="left">About Me:</h2>
 <p align="left">
-🎓 I'm a BSC student majoring in Computer Science & Engineering. Passionate About Research, Problem Solving & Possibility .  
+🎓 I'm a MCA student majoring in Computer Science & Engineering. Passionate About Research, Problem Solving & Possibility .  
 </p>
   
 <h2 align="left">🔭 Currently Working On </h2>
